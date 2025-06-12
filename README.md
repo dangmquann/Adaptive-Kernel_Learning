@@ -159,13 +159,5 @@ python extract_results.py
 
 This project is licensed under the Apache License 2.0. See the [LICENSE](LICENSE) file for details.
 
-## Citation
-```bibtex
-@misc{atk2025,
-  title={ATtention-based Kernel Learning},
-  author={Duy Thanh Vu, Quan Dang Minh et al.},
-  year={2025},
-  howpublished={\url{https://github.com/your-repo-link}}
-}
 ```
 
