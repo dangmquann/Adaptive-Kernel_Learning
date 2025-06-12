@@ -1,0 +1,12 @@
+*.csv
+*.png
+experiments/figures/*
+test
+*.npy
+.venv
+.DS_Store
+__pycache__
+.idea/
+*.ipynb
+**/logs/
+**/results/
